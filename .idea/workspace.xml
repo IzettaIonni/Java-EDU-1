@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119a194b-7d01-43bd-a0d8-d9d3f389eedf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hello_World.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables_Data_Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Input_and_Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Hello_World.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java EDU 1/Hello_World.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello_World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello_World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables_Data_Types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables_and_Data_Types.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/Users/izetta/Desktop/code/Java/Java-EDU-1",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
@@ -58,8 +65,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Java_Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Operations" />
+      <module name="Java EDU 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java_Operations" />
         <item itemvalue="Application.Hello_World" />
       </list>
     </recent_temporary>
