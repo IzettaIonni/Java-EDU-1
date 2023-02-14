@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119a194b-7d01-43bd-a0d8-d9d3f389eedf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional_Statements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Input_and_Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Users.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Hello_World.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java EDU 1/Hello_World.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello_World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello_World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables_Data_Types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables_and_Data_Types.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Hello_World.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +36,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/izetta/Desktop/code/Java/Java-EDU-1",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/izetta/Desktop/code/Java/Java-EDU-1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -74,8 +67,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java_Operations" />
         <item itemvalue="Application.Hello_World" />
+        <item itemvalue="Application.Java_Operations" />
       </list>
     </recent_temporary>
   </component>
