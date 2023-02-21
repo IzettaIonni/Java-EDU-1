@@ -1,3 +1,5 @@
+package Start_Exercises;
+
 public class Java_Operations {
     public static void main(String[] args) {
         // arithmetic operations

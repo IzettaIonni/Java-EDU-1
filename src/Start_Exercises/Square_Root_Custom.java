@@ -1,3 +1,5 @@
+package Start_Exercises;
+
 import java.util.Scanner;
 
 public class Square_Root_Custom {

@@ -1,3 +1,4 @@
+package Start_Exercises;
 
 import java.util.Scanner;
 public class Methods {

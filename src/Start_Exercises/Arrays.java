@@ -1,6 +1,8 @@
+package Start_Exercises;
+
 public class Arrays {
     public static void main(String[] args) {
-        //Arrays
+        //start_exercises.Arrays
         int[] arr = new int[] {1, 5, 7, 12, 2, 4};
 
         System.out.println("Array");

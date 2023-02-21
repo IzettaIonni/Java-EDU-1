@@ -1,3 +1,5 @@
+package Start_Exercises;
+
 public class Variables_and_Data_Types {
     public static void main(String[] args) {
         // creating variable: data type + name of variable + data(optional)
@@ -18,7 +20,7 @@ public class Variables_and_Data_Types {
                 // float for contain decimal fractions numbers, takes 4 bytes, must contain "f" at the end of number
                     float d = 1.123456789f;
                 // double for contain bigger decimal fractions numbers, takes 8 bytes, do not need f at the end
-                    double e = 1.1234567890987654321;
+                    double e = 1.1234567890987654321d;
 
             // for strings
                 // char contains one symbol and uses ''

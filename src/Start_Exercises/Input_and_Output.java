@@ -1,3 +1,5 @@
+package Start_Exercises;
+
 import java.util.Scanner;
 public class Input_and_Output {
     public static void main(String[] args) {
