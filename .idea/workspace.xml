@@ -5,32 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119a194b-7d01-43bd-a0d8-d9d3f389eedf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Something_Random.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Conditional_Statements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Exeptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Hello_World.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Input_and_Output.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Java_Operations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Square_Root_Custom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Square_Root_Google.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Variables_and_Data_Types.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditional_Statements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Conditional_Statements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exeptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Exeptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello_World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Hello_World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Input_and_Output.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Input_and_Output.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Java_Operations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Square_Root_Custom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Square_Root_Custom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Square_Root_Google.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Square_Root_Google.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables_and_Data_Types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Exercises/Variables_and_Data_Types.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java EDU 1/Tasks/Task_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java EDU 1/Tasks/Task_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
